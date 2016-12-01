@@ -1,0 +1,30 @@
+{
+  "name": "furkot-garmin-data",
+  "version": "0.0.0",
+  "description": "Data used by Furkot modules dealing with Garmin GPX format.",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@code42day.com",
+    "url": "https://code42day.com"
+  },
+  "repository": "furkot/garmin-data",
+  "license": "MIT",
+  "keywords": [
+    "furkot-garmin-data",
+    "furkot",
+    "garmin"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "should": "^11.1.1"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
