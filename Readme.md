@@ -35,8 +35,8 @@ MIT © [Damian Krzeminski](https://code42day.com)
 [npm-image]: https://img.shields.io/npm/v/furkot-garmin-data.svg
 [npm-url]: https://npmjs.org/package/furkot-garmin-data
 
-[travis-url]: https://travis-ci.org/furkot/furkot-garmin-data
-[travis-image]: https://img.shields.io/travis/furkot/furkot-garmin-data.svg
+[travis-url]: https://travis-ci.org/furkot/garmin-data
+[travis-image]: https://img.shields.io/travis/furkot/garmin-data.svg
 
-[gemnasium-image]: https://img.shields.io/gemnasium/furkot/furkot-garmin-data.svg
-[gemnasium-url]: https://gemnasium.com/furkot/furkot-garmin-data
+[gemnasium-image]: https://img.shields.io/gemnasium/furkot/garmin-data.svg
+[gemnasium-url]: https://gemnasium.com/furkot/garmin-data
