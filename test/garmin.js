@@ -1,4 +1,4 @@
-var data = require('../');
+const data = require('../');
 
 describe('furkot garmin data', function () {
   it('should be an object', function () {
@@ -10,11 +10,11 @@ describe('furkot garmin data', function () {
 
   it('should be consistent', function () {
     Object
-    .keys(data.toFurkot)
-    .forEach(function(garminIcon) {
-      var furkotIcon = data.toFurkot[garminIcon];
-      garminIcon.should.eql(data.toGarmin[furkotIcon]);
-    });
+      .keys(data.toFurkot)
+      .forEach(garminIcon => {
+        const furkotIcon = data.toFurkot[garminIcon];
+        garminIcon.should.eql(data.toGarmin[furkotIcon]);
+      });
   });
 
 });
