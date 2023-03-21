@@ -1,1 +1,1 @@
-module.exports = require('./lib/garmin');
+module.exports = require('./lib');
