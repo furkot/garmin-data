@@ -1,4 +1,10 @@
 
+2.0.1 / 2023-03-22
+==================
+
+ * more exact check if extension should be generated
+ * update Garmin icons
+
 2.0.0 / 2023-03-21
 ==================
 
