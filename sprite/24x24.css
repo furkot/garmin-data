@@ -1,0 +1,1601 @@
+.garmin {
+    background-image: url(24x24.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.garmin_wpt_0 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -1px;
+}
+
+.garmin_wpt_1 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -1px;
+}
+
+.garmin_wpt_10 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -1px;
+}
+
+.garmin_wpt_100 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -1px;
+}
+
+.garmin_wpt_101 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -1px;
+}
+
+.garmin_wpt_102 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -1px;
+}
+
+.garmin_wpt_103 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -1px;
+}
+
+.garmin_wpt_104 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -1px;
+}
+
+.garmin_wpt_105 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -1px;
+}
+
+.garmin_wpt_106 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -1px;
+}
+
+.garmin_wpt_107 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -1px;
+}
+
+.garmin_wpt_108 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -1px;
+}
+
+.garmin_wpt_109 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -1px;
+}
+
+.garmin_wpt_11 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -1px;
+}
+
+.garmin_wpt_110 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -1px;
+}
+
+.garmin_wpt_111 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -1px;
+}
+
+.garmin_wpt_112 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -27px;
+}
+
+.garmin_wpt_113 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -27px;
+}
+
+.garmin_wpt_114 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -27px;
+}
+
+.garmin_wpt_115 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -27px;
+}
+
+.garmin_wpt_116 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -27px;
+}
+
+.garmin_wpt_117 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -27px;
+}
+
+.garmin_wpt_118 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -27px;
+}
+
+.garmin_wpt_119 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -27px;
+}
+
+.garmin_wpt_12 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -27px;
+}
+
+.garmin_wpt_120 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -27px;
+}
+
+.garmin_wpt_121 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -27px;
+}
+
+.garmin_wpt_122 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -27px;
+}
+
+.garmin_wpt_123 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -27px;
+}
+
+.garmin_wpt_124 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -27px;
+}
+
+.garmin_wpt_125 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -27px;
+}
+
+.garmin_wpt_126 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -27px;
+}
+
+.garmin_wpt_127 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -53px;
+}
+
+.garmin_wpt_128 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -53px;
+}
+
+.garmin_wpt_129 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -53px;
+}
+
+.garmin_wpt_13 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -53px;
+}
+
+.garmin_wpt_130 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -53px;
+}
+
+.garmin_wpt_131 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -53px;
+}
+
+.garmin_wpt_132 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -53px;
+}
+
+.garmin_wpt_133 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -53px;
+}
+
+.garmin_wpt_134 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -53px;
+}
+
+.garmin_wpt_135 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -53px;
+}
+
+.garmin_wpt_136 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -53px;
+}
+
+.garmin_wpt_137 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -53px;
+}
+
+.garmin_wpt_138 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -53px;
+}
+
+.garmin_wpt_139 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -53px;
+}
+
+.garmin_wpt_14 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -53px;
+}
+
+.garmin_wpt_140 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -53px;
+}
+
+.garmin_wpt_141 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -79px;
+}
+
+.garmin_wpt_142 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -79px;
+}
+
+.garmin_wpt_143 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -79px;
+}
+
+.garmin_wpt_144 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -79px;
+}
+
+.garmin_wpt_145 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -79px;
+}
+
+.garmin_wpt_146 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -79px;
+}
+
+.garmin_wpt_147 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -79px;
+}
+
+.garmin_wpt_148 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -79px;
+}
+
+.garmin_wpt_149 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -79px;
+}
+
+.garmin_wpt_15 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -79px;
+}
+
+.garmin_wpt_150 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -79px;
+}
+
+.garmin_wpt_151 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -79px;
+}
+
+.garmin_wpt_152 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -79px;
+}
+
+.garmin_wpt_153 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -79px;
+}
+
+.garmin_wpt_154 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -79px;
+}
+
+.garmin_wpt_155 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -79px;
+}
+
+.garmin_wpt_156 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -105px;
+}
+
+.garmin_wpt_157 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -105px;
+}
+
+.garmin_wpt_158 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -105px;
+}
+
+.garmin_wpt_159 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -105px;
+}
+
+.garmin_wpt_16 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -105px;
+}
+
+.garmin_wpt_160 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -105px;
+}
+
+.garmin_wpt_161 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -105px;
+}
+
+.garmin_wpt_162 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -105px;
+}
+
+.garmin_wpt_163 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -105px;
+}
+
+.garmin_wpt_164 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -105px;
+}
+
+.garmin_wpt_165 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -105px;
+}
+
+.garmin_wpt_166 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -105px;
+}
+
+.garmin_wpt_167 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -105px;
+}
+
+.garmin_wpt_168 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -105px;
+}
+
+.garmin_wpt_169 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -105px;
+}
+
+.garmin_wpt_17 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -105px;
+}
+
+.garmin_wpt_170 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -131px;
+}
+
+.garmin_wpt_171 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -131px;
+}
+
+.garmin_wpt_172 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -131px;
+}
+
+.garmin_wpt_173 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -131px;
+}
+
+.garmin_wpt_174 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -131px;
+}
+
+.garmin_wpt_175 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -131px;
+}
+
+.garmin_wpt_176 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -131px;
+}
+
+.garmin_wpt_177 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -131px;
+}
+
+.garmin_wpt_178 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -131px;
+}
+
+.garmin_wpt_179 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -131px;
+}
+
+.garmin_wpt_18 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -131px;
+}
+
+.garmin_wpt_180 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -131px;
+}
+
+.garmin_wpt_181 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -131px;
+}
+
+.garmin_wpt_182 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -131px;
+}
+
+.garmin_wpt_183 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -131px;
+}
+
+.garmin_wpt_184 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -131px;
+}
+
+.garmin_wpt_185 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -157px;
+}
+
+.garmin_wpt_186 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -157px;
+}
+
+.garmin_wpt_187 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -157px;
+}
+
+.garmin_wpt_188 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -157px;
+}
+
+.garmin_wpt_189 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -157px;
+}
+
+.garmin_wpt_19 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -157px;
+}
+
+.garmin_wpt_190 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -157px;
+}
+
+.garmin_wpt_191 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -157px;
+}
+
+.garmin_wpt_192 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -157px;
+}
+
+.garmin_wpt_193 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -157px;
+}
+
+.garmin_wpt_194 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -157px;
+}
+
+.garmin_wpt_195 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -157px;
+}
+
+.garmin_wpt_196 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -157px;
+}
+
+.garmin_wpt_197 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -157px;
+}
+
+.garmin_wpt_198 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -157px;
+}
+
+.garmin_wpt_199 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -157px;
+}
+
+.garmin_wpt_2 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -183px;
+}
+
+.garmin_wpt_20 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -183px;
+}
+
+.garmin_wpt_200 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -183px;
+}
+
+.garmin_wpt_201 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -183px;
+}
+
+.garmin_wpt_202 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -183px;
+}
+
+.garmin_wpt_203 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -183px;
+}
+
+.garmin_wpt_204 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -183px;
+}
+
+.garmin_wpt_205 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -183px;
+}
+
+.garmin_wpt_206 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -183px;
+}
+
+.garmin_wpt_207 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -183px;
+}
+
+.garmin_wpt_208 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -183px;
+}
+
+.garmin_wpt_209 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -183px;
+}
+
+.garmin_wpt_21 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -183px;
+}
+
+.garmin_wpt_210 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -183px;
+}
+
+.garmin_wpt_211 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -183px;
+}
+
+.garmin_wpt_212 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -183px;
+}
+
+.garmin_wpt_213 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -209px;
+}
+
+.garmin_wpt_214 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -209px;
+}
+
+.garmin_wpt_215 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -209px;
+}
+
+.garmin_wpt_216 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -209px;
+}
+
+.garmin_wpt_217 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -209px;
+}
+
+.garmin_wpt_218 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -209px;
+}
+
+.garmin_wpt_219 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -209px;
+}
+
+.garmin_wpt_22 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -209px;
+}
+
+.garmin_wpt_220 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -209px;
+}
+
+.garmin_wpt_221 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -209px;
+}
+
+.garmin_wpt_222 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -209px;
+}
+
+.garmin_wpt_223 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -209px;
+}
+
+.garmin_wpt_224 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -209px;
+}
+
+.garmin_wpt_225 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -209px;
+}
+
+.garmin_wpt_226 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -209px;
+}
+
+.garmin_wpt_227 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -209px;
+}
+
+.garmin_wpt_228 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -235px;
+}
+
+.garmin_wpt_229 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -235px;
+}
+
+.garmin_wpt_23 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -235px;
+}
+
+.garmin_wpt_230 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -235px;
+}
+
+.garmin_wpt_231 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -235px;
+}
+
+.garmin_wpt_232 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -235px;
+}
+
+.garmin_wpt_233 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -235px;
+}
+
+.garmin_wpt_234 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -235px;
+}
+
+.garmin_wpt_235 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -235px;
+}
+
+.garmin_wpt_236 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -235px;
+}
+
+.garmin_wpt_237 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -235px;
+}
+
+.garmin_wpt_238 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -235px;
+}
+
+.garmin_wpt_239 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -235px;
+}
+
+.garmin_wpt_24 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -235px;
+}
+
+.garmin_wpt_240 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -235px;
+}
+
+.garmin_wpt_241 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -235px;
+}
+
+.garmin_wpt_242 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -261px;
+}
+
+.garmin_wpt_243 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -261px;
+}
+
+.garmin_wpt_244 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -261px;
+}
+
+.garmin_wpt_245 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -261px;
+}
+
+.garmin_wpt_246 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -261px;
+}
+
+.garmin_wpt_247 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -261px;
+}
+
+.garmin_wpt_248 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -261px;
+}
+
+.garmin_wpt_249 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -261px;
+}
+
+.garmin_wpt_25 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -261px;
+}
+
+.garmin_wpt_250 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -261px;
+}
+
+.garmin_wpt_251 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -261px;
+}
+
+.garmin_wpt_252 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -261px;
+}
+
+.garmin_wpt_253 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -261px;
+}
+
+.garmin_wpt_254 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -261px;
+}
+
+.garmin_wpt_255 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -261px;
+}
+
+.garmin_wpt_256 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -261px;
+}
+
+.garmin_wpt_257 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -287px;
+}
+
+.garmin_wpt_258 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -287px;
+}
+
+.garmin_wpt_259 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -287px;
+}
+
+.garmin_wpt_26 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -287px;
+}
+
+.garmin_wpt_260 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -287px;
+}
+
+.garmin_wpt_261 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -287px;
+}
+
+.garmin_wpt_262 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -287px;
+}
+
+.garmin_wpt_263 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -287px;
+}
+
+.garmin_wpt_264 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -287px;
+}
+
+.garmin_wpt_265 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -287px;
+}
+
+.garmin_wpt_27 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -287px;
+}
+
+.garmin_wpt_28 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -287px;
+}
+
+.garmin_wpt_29 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -287px;
+}
+
+.garmin_wpt_3 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -287px;
+}
+
+.garmin_wpt_30 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -287px;
+}
+
+.garmin_wpt_31 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -287px;
+}
+
+.garmin_wpt_32 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -313px;
+}
+
+.garmin_wpt_33 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -313px;
+}
+
+.garmin_wpt_34 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -313px;
+}
+
+.garmin_wpt_35 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -313px;
+}
+
+.garmin_wpt_36 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -313px;
+}
+
+.garmin_wpt_37 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -313px;
+}
+
+.garmin_wpt_38 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -313px;
+}
+
+.garmin_wpt_39 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -313px;
+}
+
+.garmin_wpt_4 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -313px;
+}
+
+.garmin_wpt_40 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -313px;
+}
+
+.garmin_wpt_41 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -313px;
+}
+
+.garmin_wpt_42 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -313px;
+}
+
+.garmin_wpt_43 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -313px;
+}
+
+.garmin_wpt_44 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -313px;
+}
+
+.garmin_wpt_45 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -313px;
+}
+
+.garmin_wpt_46 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -313px;
+}
+
+.garmin_wpt_47 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -339px;
+}
+
+.garmin_wpt_48 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -339px;
+}
+
+.garmin_wpt_49 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -339px;
+}
+
+.garmin_wpt_5 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -339px;
+}
+
+.garmin_wpt_50 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -339px;
+}
+
+.garmin_wpt_51 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -339px;
+}
+
+.garmin_wpt_52 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -339px;
+}
+
+.garmin_wpt_53 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -339px;
+}
+
+.garmin_wpt_54 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -339px;
+}
+
+.garmin_wpt_55 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -339px;
+}
+
+.garmin_wpt_56 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -339px;
+}
+
+.garmin_wpt_57 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -339px;
+}
+
+.garmin_wpt_58 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -339px;
+}
+
+.garmin_wpt_59 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -339px;
+}
+
+.garmin_wpt_6 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -339px;
+}
+
+.garmin_wpt_60 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -339px;
+}
+
+.garmin_wpt_61 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -365px;
+}
+
+.garmin_wpt_62 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -365px;
+}
+
+.garmin_wpt_63 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -365px;
+}
+
+.garmin_wpt_64 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -365px;
+}
+
+.garmin_wpt_65 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -365px;
+}
+
+.garmin_wpt_66 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -365px;
+}
+
+.garmin_wpt_67 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -365px;
+}
+
+.garmin_wpt_68 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -365px;
+}
+
+.garmin_wpt_69 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -365px;
+}
+
+.garmin_wpt_7 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -365px;
+}
+
+.garmin_wpt_70 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -365px;
+}
+
+.garmin_wpt_71 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -365px;
+}
+
+.garmin_wpt_72 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -365px;
+}
+
+.garmin_wpt_73 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -365px;
+}
+
+.garmin_wpt_74 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -365px;
+}
+
+.garmin_wpt_75 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -365px;
+}
+
+.garmin_wpt_76 {
+    width: 24px;
+    height: 24px;
+    background-position: -1px -391px;
+}
+
+.garmin_wpt_77 {
+    width: 24px;
+    height: 24px;
+    background-position: -27px -391px;
+}
+
+.garmin_wpt_78 {
+    width: 24px;
+    height: 24px;
+    background-position: -53px -391px;
+}
+
+.garmin_wpt_79 {
+    width: 24px;
+    height: 24px;
+    background-position: -79px -391px;
+}
+
+.garmin_wpt_8 {
+    width: 24px;
+    height: 24px;
+    background-position: -105px -391px;
+}
+
+.garmin_wpt_80 {
+    width: 24px;
+    height: 24px;
+    background-position: -131px -391px;
+}
+
+.garmin_wpt_81 {
+    width: 24px;
+    height: 24px;
+    background-position: -157px -391px;
+}
+
+.garmin_wpt_82 {
+    width: 24px;
+    height: 24px;
+    background-position: -183px -391px;
+}
+
+.garmin_wpt_83 {
+    width: 24px;
+    height: 24px;
+    background-position: -209px -391px;
+}
+
+.garmin_wpt_84 {
+    width: 24px;
+    height: 24px;
+    background-position: -235px -391px;
+}
+
+.garmin_wpt_85 {
+    width: 24px;
+    height: 24px;
+    background-position: -261px -391px;
+}
+
+.garmin_wpt_86 {
+    width: 24px;
+    height: 24px;
+    background-position: -287px -391px;
+}
+
+.garmin_wpt_87 {
+    width: 24px;
+    height: 24px;
+    background-position: -313px -391px;
+}
+
+.garmin_wpt_88 {
+    width: 24px;
+    height: 24px;
+    background-position: -339px -391px;
+}
+
+.garmin_wpt_89 {
+    width: 24px;
+    height: 24px;
+    background-position: -365px -391px;
+}
+
+.garmin_wpt_9 {
+    width: 24px;
+    height: 24px;
+    background-position: -391px -391px;
+}
+
+.garmin_wpt_90 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -1px;
+}
+
+.garmin_wpt_91 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -27px;
+}
+
+.garmin_wpt_92 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -53px;
+}
+
+.garmin_wpt_93 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -79px;
+}
+
+.garmin_wpt_94 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -105px;
+}
+
+.garmin_wpt_95 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -131px;
+}
+
+.garmin_wpt_96 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -157px;
+}
+
+.garmin_wpt_97 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -183px;
+}
+
+.garmin_wpt_98 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -209px;
+}
+
+.garmin_wpt_99 {
+    width: 24px;
+    height: 24px;
+    background-position: -417px -235px;
+}
