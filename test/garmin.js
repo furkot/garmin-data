@@ -1,3 +1,4 @@
+const should = require('should');
 const data = require('../');
 
 describe('furkot garmin data', function () {
@@ -10,11 +11,26 @@ describe('furkot garmin data', function () {
 
   it('should be consistent', function () {
     Object
-      .keys(data.toFurkot)
-      .forEach(garminIcon => {
-        const furkotIcon = data.toFurkot[garminIcon];
+      .entries(data.toFurkot)
+      .forEach(([garminIcon, furkotIcon]) => {
         garminIcon.should.eql(data.toGarmin[furkotIcon]);
       });
-  });
-
+    Object.entries(Object
+      .entries(data.toGarmin)
+      .reduce((result, [, garminIcon]) => {
+        result[garminIcon] = result[garminIcon] || 0;
+        result[garminIcon] += 1;
+        return result;
+      }, {}))
+      .forEach(([garminIcon, counter]) => {
+        if (counter > 1) {
+          const furkotIcon = data.toFurkot[garminIcon];
+          should.exist(furkotIcon, garminIcon);
+          data.toGarmin[furkotIcon].should.eql(garminIcon);
+        }
+        else {
+          should.not.exist(data.toFurkot[garminIcon]);
+        }
+      });
+    });
 });
