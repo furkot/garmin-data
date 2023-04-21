@@ -1,4 +1,11 @@
 
+2.1.0 / 2023-04-21
+==================
+
+ * add sprite with Garmin symbols
+ * fix mismatched and add missing symbols
+ * remove icons no longer used for waypoints by Furkot
+
 2.0.1 / 2023-03-22
 ==================
 
