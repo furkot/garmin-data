@@ -36,7 +36,7 @@ MIT © [Damian Krzeminski](https://code42day.com)
 [npm-url]: https://npmjs.org/package/@furkot/garmin-data
 
 [build-url]: https://github.com/furkot/garmin-data/actions/workflows/check.yaml
-[build-image]: https://img.shields.io/github/workflow/status/furkot/garmin-data/check
+[build-image]: https://img.shields.io/github/actions/workflow/status/furkot/garmin-data/check.yaml?branch=main
 
 [deps-image]: https://img.shields.io/librariesio/release/npm/@furkot/garmin-data
 [deps-url]: https://libraries.io/npm/@furkot%2Fgarmin-data
