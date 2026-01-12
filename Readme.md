@@ -17,7 +17,7 @@ $ npm install --save @furkot/garmin-data
 Furkot pin symbols are characters in [furkot-icon-font] - see [here][furkot-icon-font-demo].
 
 ```js
-var data = require('@furkot/garmin-data');
+import data from '@furkot/garmin-data';
 
 console.log(data.toFurkot['Church']);  // === 34
 console.log(data.toGarmin['34']);      // === 'Church'

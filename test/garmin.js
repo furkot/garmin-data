@@ -1,36 +1,29 @@
-const should = require('should');
-const data = require('../');
+import test from 'node:test';
+import data from '../lib/garmin.js';
 
-describe('furkot garmin data', function () {
-  it('should be an object', function () {
-    data.should.have.property('toFurkot').be.type('object');
-    data.should.have.property('toGarmin').be.type('object');
-    data.should.have.property('colors').be.type('object');
+test('should be an object', t => {
+  t.assert.equal(typeof data.toFurkot, 'object');
+  t.assert.equal(typeof data.toGarmin, 'object');
+  t.assert.equal(typeof data.colors, 'object');
+});
+
+test('should be consistent', t => {
+  Object.entries(data.toFurkot).forEach(([garminIcon, furkotIcon]) => {
+    t.assert.deepEqual(garminIcon, data.toGarmin[furkotIcon]);
   });
-
-
-  it('should be consistent', function () {
-    Object
-      .entries(data.toFurkot)
-      .forEach(([garminIcon, furkotIcon]) => {
-        garminIcon.should.eql(data.toGarmin[furkotIcon]);
-      });
-    Object.entries(Object
-      .entries(data.toGarmin)
-      .reduce((result, [, garminIcon]) => {
-        result[garminIcon] = result[garminIcon] || 0;
-        result[garminIcon] += 1;
-        return result;
-      }, {}))
-      .forEach(([garminIcon, counter]) => {
-        if (counter > 1) {
-          const furkotIcon = data.toFurkot[garminIcon];
-          should.exist(furkotIcon, garminIcon);
-          data.toGarmin[furkotIcon].should.eql(garminIcon);
-        }
-        else {
-          should.not.exist(data.toFurkot[garminIcon]);
-        }
-      });
-    });
+  Object.entries(
+    Object.entries(data.toGarmin).reduce((result, [, garminIcon]) => {
+      result[garminIcon] = result[garminIcon] || 0;
+      result[garminIcon] += 1;
+      return result;
+    }, {})
+  ).forEach(([garminIcon, counter]) => {
+    if (counter > 1) {
+      const furkotIcon = data.toFurkot[garminIcon];
+      t.assert.ok(furkotIcon != null, garminIcon);
+      t.assert.deepEqual(data.toGarmin[furkotIcon], garminIcon);
+    } else {
+      t.assert.equal(data.toFurkot[garminIcon], undefined, 'should not exist');
+    }
+  });
 });
