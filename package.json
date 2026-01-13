@@ -7,24 +7,25 @@
     "email": "pirxpilot@code42day.com",
     "url": "https://code42day.com"
   },
-  "repository": "furkot/garmin-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkot/garmin-data.git"
+  },
+  "type": "module",
+  "exports": "./lib/index.js",
   "license": "MIT",
   "keywords": [
     "furkot-garmin-data",
     "furkot",
     "garmin"
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "jshint": "~2",
-    "mocha": "~10",
-    "should": "~13"
+  "dependencies": {
+    "@biomejs/biome": "^2.3.11"
   },
   "scripts": {
     "test": "make check"
   },
   "files": [
-    "index.js",
     "lib",
     "sprite"
   ]
